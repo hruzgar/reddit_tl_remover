@@ -6,6 +6,6 @@ Remove TL Parameter from Reddit URLs
 2. Go to your "Installed Scripts" Page in Violentmonkey, then click on "+" and "Install from URL"
 3. Enter this URL and click ok:
 ```
-https://raw.githubusercontent.com/hruzgar/reddit_tl_remover/refs/heads/main/.js
+https://raw.githubusercontent.com/hruzgar/reddit_tl_remover/refs/heads/main/reddit_tl_remover.js
 ```
 4. Now click "Install" on the new page that appears and you're set. Enjoy the plugin!
