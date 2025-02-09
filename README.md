@@ -8,4 +8,4 @@ Remove TL Parameter from Reddit URLs
 ```
 https://raw.githubusercontent.com/hruzgar/reddit_tl_remover/refs/heads/main/reddit_tl_remover.js
 ```
-4. Now click "Install" on the new page that appears and you're set. Enjoy the plugin!
+4. Now click "Install" on the new page that appears and you're set.
